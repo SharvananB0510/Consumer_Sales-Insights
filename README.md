@@ -45,6 +45,10 @@ and the percentage of contribution?
 10. Get the Top 3 products in each division that have a high
 total_sold_quantity in the fiscal_year 2021?
 
+## Answers
+[Black Orange Modern Business Mindset and Personal Growth Linkedin Carousel (1).pdf](https://github.com/SharvananB0510/Consumer-Sales-_Insights/files/13414955/Black.Orange.Modern.Business.Mindset.and.Personal.Growth.Linkedin.Carousel.1.pdf)
+
+
 
 
 
