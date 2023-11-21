@@ -1,7 +1,7 @@
 # Consumer Sales Ad_Hoc Insights - CodeBasics Challange
 
 ## Project overview
-As  a part of the challange I have conducted Exploratory Data Analysis (EDA) to address Ad_Hoc requests and created a presentation summarizing the insights obtained.
+As  a part of the challenge I have conducted Exploratory Data Analysis (EDA) to address Ad_Hoc requests and created a presentation summarizing the insights obtained.
 [code_basics projects](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 ## Objective
